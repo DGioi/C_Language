@@ -1,0 +1,314 @@
+**1 C va C++ la cung mot ngon ngu 
+# 	Sai
+# 	Dung
+**2 Cau hoi 2 
+# 	Dap an a
+#	Dap an b
+#	Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh 
+# 	If
+#	switch
+#	Ca hai lenh tren
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**4 srand((unsigned)time(&t)) la ham dung de
+# 	Tao bo sinh so ngau nhien
+#	Cho ket qua thoi gian
+#	Ca hai deu sai
+**5 Thuc hien menu bang switch(key){case ...Break;}  trong do break co tac dung gi
+# 	Thoat khoi switch
+#	Thoat khoi chuong trinh
+#	Tiep tuc vong switch 
+**2 **1 C va C++ la cung mot ngon ngu 
+# 	Sai
+# 	Dung
+**2 Cau hoi 2 
+# 	Dap an a
+#	Dap an b
+#	Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh 
+# 	If
+#	switch
+#	Ca hai lenh tren
+**1 C va C++ la cung mot ngon ngu 
+# 	Sai
+# 	Dung
+**2 Cau hoi 2 
+# 	Dap an a
+#	Dap an b
+#	Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh 
+# 	If
+#	switch
+#	Ca hai lenh tren
+**1 C va C++ la cung mot ngon ngu 
+# 	Sai
+# 	Dung
+**2 Cau hoi 2 
+# 	Dap an a
+#	Dap an b
+#	Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh 
+# 	If
+#	switch
+#	Ca hai lenh tren
+**1 C va C++ la cung mot ngon ngu 
+# 	Sai
+# 	Dung
+**2 Cau hoi 2 
+# 	Dap an a
+#	Dap an b
+#	Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh 
+# 	If
+#	switch
+#	Ca hai lenh tren
+**1 C va C++ la cung mot ngon ngu 
+# 	Sai
+# 	Dung
+**2 Cau hoi 2 
+# 	Dap an a
+#	Dap an b
+#	Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh 
+# 	If
+#	switch
+#	Ca hai lenh tren
+**1 C va C++ la cung mot ngon ngu 
+# 	Sai
+# 	Dung
+**2 Cau hoi 2 
+# 	Dap an a
+#	Dap an b
+#	Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh 
+# 	If
+#	switch
+#	Ca hai lenh tren
+**1 C va C++ la cung mot ngon ngu 
+# 	Sai
+# 	Dung
+**2 Cau hoi 2 
+# 	Dap an a
+#	Dap an b
+#	Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh 
+# 	If
+#	switch
+#	Ca hai lenh tren
+**1 C va C++ la cung mot ngon ngu 
+# 	Sai
+# 	Dung
+**2 Cau hoi 2 
+# 	Dap an a
+#	Dap an b
+#	Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh 
+# 	If
+#	switch
+#	Ca hai lenh tren
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**4 srand((unsigned)time(&t)) la ham dung de
+# 	Tao bo sinh so ngau nhien
+#	Cho ket qua thoi gian
+#	Ca hai deu sai
+**5 Thuc hien menu bang switch(key){case ...Break;}  trong do break co tac dung gi
+# 	Thoat khoi switch
+#	Thoat khoi chuong trinh
+#	Tiep tuc vong switch
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**4 srand((unsigned)time(&t)) la ham dung de
+# 	Tao bo sinh so ngau nhien
+#	Cho ket qua thoi gian
+#	Ca hai deu sai
+**5 Thuc hien menu bang switch(key){case ...Break;}  trong do break co tac dung gi
+# 	Thoat khoi switch
+#	Thoat khoi chuong trinh
+#	Tiep tuc vong switch
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**4 srand((unsigned)time(&t)) la ham dung de
+# 	Tao bo sinh so ngau nhien
+#	Cho ket qua thoi gian
+#	Ca hai deu sai
+**5 Thuc hien menu bang switch(key){case ...Break;}  trong do break co tac dung gi
+# 	Thoat khoi switch
+#	Thoat khoi chuong trinh
+#	Tiep tuc vong switch
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**4 srand((unsigned)time(&t)) la ham dung de
+# 	Tao bo sinh so ngau nhien
+#	Cho ket qua thoi gian
+#	Ca hai deu sai
+**5 Thuc hien menu bang switch(key){case ...Break;}  trong do break co tac dung gi
+# 	Thoat khoi switch
+#	Thoat khoi chuong trinh
+#	Tiep tuc vong switch
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**4 srand((unsigned)time(&t)) la ham dung de
+# 	Tao bo sinh so ngau nhien
+#	Cho ket qua thoi gian
+#	Ca hai deu sai
+**5 Thuc hien menu bang switch(key){case ...Break;}  trong do break co tac dung gi
+# 	Thoat khoi switch
+#	Thoat khoi chuong trinh
+#	Tiep tuc vong switch
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**4 srand((unsigned)time(&t)) la ham dung de
+# 	Tao bo sinh so ngau nhien
+#	Cho ket qua thoi gian
+#	Ca hai deu sai
+**5 Thuc hien menu bang switch(key){case ...Break;}  trong do break co tac dung gi
+# 	Thoat khoi switch
+#	Thoat khoi chuong trinh
+#	Tiep tuc vong switch
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**4 srand((unsigned)time(&t)) la ham dung de
+# 	Tao bo sinh so ngau nhien
+#	Cho ket qua thoi gian
+#	Ca hai deu sai
+**5 Thuc hien menu bang switch(key){case ...Break;}  trong do break co tac dung gi
+# 	Thoat khoi switch
+#	Thoat khoi chuong trinh
+#	Tiep tuc vong switch
+**3 strcmp cho phep chung ta
+# 	so sanh hai string
+# 	copy hai string
+#	Lay ki tu ngau nhien
+**3 fgets cho phep chung ta
+# 	Doc sau s den khi gap \n
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**3 strcpy cho phep chung ta
+# 	sao chep chuoi
+# 	tao chuoi
+#	Lay ki tu ngau nhien
+**3 getc cho phep chung ta
+# 	Lay ki tu tiep theo
+# 	Lay sau ki tu dau tien
+#	Lay ki tu ngau nhien
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 Cho fseek
+#	dung de tro den ki tu can tim
+#	Dung de tim sau
+#	ca hai dap an
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+**4 ham strlen()
+#	dung de do do dai xau
+#	Dung de tim sau
+
+
+

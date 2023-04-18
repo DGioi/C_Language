@@ -1,0 +1,339 @@
+aim /V,N/ muc tieu, nham ban.
+aspect /N/ khia canh, huong nhin, ngoai hinh cua mot dia diem, bieu cam khuon mat.
+absorb /V/ hap thu, linh hoi.
+admit /V,N/ dong y, thua nhan.
+apologize /V/ xin loi, hoi loi, cam thay co loi.
+astonish /ADJ/ ngac nhien.
+access /V,N/ ket noi.
+address /N/ dia chi, noi o, cho o, bai phat bieu trang trong.
+assess /V/ dinh luong, dinh gia.
+article /N/ bao.
+abuse /V/ lam dung, uy hiep.
+allocate /V/ phan phat, chia tai san.
+anticipate /V/ doan truoc, luong truoc.
+abrupt /ADJ/ dot nhien.
+agenda /N/ van de duoc de cap trong mot cuoc hop.
+aptitude /N/ kha nang bam sinh.
+amplify /V/ tang am luong.
+cork /N/ nut ruou vang.
+elastic /ADJ/ dan hoi, deo.
+bouyant /ADJ/ co kha nang noi tren mat nuoc.
+insulate /V/ bao ve tuyet doi, bao trum cai gi do de khong co su trao doi ben ngoai.
+trunk /N/ than cay, thung xe container.
+replicate /V/ bat chuoc, lam lai.
+duplicate /V/ sao chep.
+specify /V/ xac dinh ro.
+specific /ADJ/ chi tiet, ching xac, ro rang.
+flourish /ADJ/ phat trien manh me.
+horizontal /N/ duong chan troi, truc hoanh.
+vertical /N/ truc tung.
+veteran /N/ cuu chien binh, nguoi nhieu kinh nghiem chien dau.
+grain /N/ hat.
+triumph /V/ thang.triumph
+depict /V/ mieu ta bang hinh anh.
+tyrant /N/ nguoi tan nhan.
+chronicle /N/ bien nien su.
+stalk /N/ canh cay, nhanh cay.
+stark /ADJ/ am dam, diu hiu.
+speculate /V/ phong doan.
+spectacular /ADJ/ nhin rat thu vi, hay ho.
+cram /V/ on thi sml.
+define /V/ dinh nghia, giai thich.
+definite /ADJ/ chac chan, ro rang.
+lucrative /ADJ/tao ra nhieu tien.
+liable /ADJ/ chiu trach nhiem phap li.
+affect /V/ tac dong.
+adorn /V/ trang hoang, trang tri lai.
+aboriginal /N/ nguoi thieu so.
+abominate /V/ ghet bo.
+dubious /ADJ/ dang nghi ngo.
+culprit /N/ nguyen nhan, nguoi lam dieu sai trai.
+current /ADJ,N/ hien tai, dong chay.
+demolish /V/ pha huy nha cua.
+discern /V/ nhan ra.
+conspicuous /ADJ/ de nhin thay, de nhan ra.
+beguile /V/ hap dan, du ddo, quan li thoi gian thoai mai.
+perpetual /ADJ/ lap lai mot cach nham chan.
+bewilder /V/ lam boi roi, lam phien.
+retrieve /V/ tim thu gi do roi mang ve.
+dignify /V/ lam cai gi do tro nen quan trong hay duoc ton trong.
+refine /V/ loc.
+diploma /N/ chung chi.
+discrete /ADJ/ hinh dang doc lap.
+discreet /ADJ/ khong muon gay chu y.
+designate /V/ giao nhiem vu, bo nhiem.
+evoke /V/ khoi lai ki uc.
+execute /V/ giet, thi hanh.
+ensure /V/ dam bao.
+insure /V/ mua bao hiem, mua le phi cho su an toan.
+assure /V/ tran an, lam ai do binh tinh lai.
+eradicate /V/ vut bo, pha huy hoan toan.
+eliminate /V/ vut bo.
+expel /V/ duoi, truc xuat.
+exile /V/ day  doa.
+elicit /V/ goi ra, tao ra thong tin.
+porcelain /N/ do su.
+eccentric /ADJ/ la lol, khong binh thuong.
+amass /V/ thu thap mot luong lon.
+frown /V/ cau may, bieu cam tuc gian.
+glare /N/ nhin mot cach gian du.
+rookie /N/ nguoi moi, linh moi.
+blush /V/ xau ho, do mat.
+clumsy /ADJ/ vung ve, lam roi rot.
+mumble /V/ noi thi tham, noi nho.
+probate /N/ qua trinh xem ban di chuc la hop phap hay khong.
+probation /N/ thoi gian quan tuc.
+sanction /V,N/ tan than, su dong y.
+scout /N/ diep vien, gian diep.
+ironic /ADJ/ mia mai.
+transcendent /ADJ/ lon hon, tot hon, tren tat ca.
+knack /N/ kha nang thuc hien cong viec gi do.
+superstitious /ADJ/ me tin, di doan.
+tantrum /N/ thoi ki noi loan.
+agonize /V/ lo lang qua nhieu ve van de gi do.
+replenish /V/ lap day.
+slaughter /V/ giet dong vat nhieu va da man.
+cling /V/ nam chat, tom lay.
+jerk /V/ di nhanh, day nhanh ve phia truoc.
+epilogue /N/ phan ket thuc cau chuyen hay vo kich.
+shamble /V/ di khap khieng, keo le chan.
+vice /N/ thoi quen xau.
+crevice /N/ vet nut nho tren tuong, mot khoang nho.
+prototype /N/ phien ban dau tien cua mot co may.
+protocol /N/ nguyen tac trong giao tiep, ung xu.
+prologue /N/ phan mo dau cua cau chuyen hay vo kich.
+prospect /N/ vien canh tuong lai.
+arson /N/ toi phong hoa.
+prosecute /V/ buoc toi, ket an.
+codify /V/ ma hoa.
+resilient /ADJ/ kha nang phuc hoi nhanh.
+commod /N/ chiec ghe co mot lo o giua de ngoi di ia.
+comodity /N/ hanh hoa.
+peasant /N/ nong dan, nguoi tho lo.
+stipulate /V/ xac dinh ro, khang khang.
+stumble /V/ chap choi, noi ngong, noi lap.
+tenacious /ADJ/ bao thu.
+substantial /ADJ/ nhieu.
+revenue /N/ doanh thu.
+retaliate /V/ tra thu.
+merge /V/ sat nhap.
+infantry /N/ linh danh bo.
+cartridge /N/ cat trich.
+seize /V/ tom chat, nam chat.
+charge /V,N/ nap dan, sac pin, gia ca cua dich vu, manh giay khang dinh ban vua pham toi.
+dispatch /V/ gui di lam mot cong viec gi do.
+tentative /ADJ/ do du, khong tu tin.
+literal /ADJ/ nghia den.
+laterary /ADJ/ lien quan toi Van hoc.
+appraise /V/ kiem tra de dinh gia.
+rumble /V/ gam ru.
+folk /N/ con nguoi.
+crawl /V/ bo, cham nhu rua bo.
+roster /N/ ban phan chiacong viec.
+rooster /N/ ga trong.
+herbivore /N/ dong vat an co.
+carnivore /N/ dong vat an thit.
+omnivore /N/ dong vat an tap.
+ominous /ADJ/ linh cam dieu gi do khong tot.
+onerous /ADJ/ kho khan de vuot qua.
+ornament /ADJ/ trang suc.
+testimony /N/ bang chung, ban tuyen bo cai gi do la dung.
+liquor /N/ ruou manh.
+cluster /V,N/ mot nhom nhung vat giong nhau, tom, tap hop lai.
+purse /N/ cai vi tien.
+mayday /N/ tin hieu duoc gui tu tau hay may bay, vat the bay.
+fuse /V,N/ cau tri, lam vat gi do qua tai vi dong dien cao.
+prowess /N/ kha nang lam viec gi do.
+bounty /N/ phan thuong, phuoc lanh.
+swarm /V,N/ mot dan, nhom con trung, con nguoi, di gan lai,xich lai voi nhau.
+rendezvous /N/ noi gap mat, diem hen cuoi cung.
+ally /N/ dong doi, dong minh.
+junk /N/ do vat cu rich, vo dung.
+fusion /N/ hon hop, mo hon don.
+despise /V/ ghet bo, khinh miet, khinh thuong.
+auxiliary /ADJ/ to ra co ich.
+interlude /N/ khoang thoi gian ngan sau hai hanh dong dai.
+syndicate /N/ cong doan, nguoi tap hop lai de thuc hien mot ke hoach doanh nghiep.
+entrench /V/ phat hanh mot cai gi do ma no rat kho de bien doi.
+plateau /V,N/ vung dat nho ra va cao, dat toi mot muc do nao do.
+steer /V/ lai, dieu khien.
+monumental /ADJ/ rat lon, tuyet voi.
+perplex /V/ lam roi tri, lam boi roi bang cach rat kho de hieu.
+exacerbate /V/ lam mot chuyen tham chi da xau roi tro nen xau hon.
+scum /N/ vang tren chat long, mot nguoi rat thieu van minh lich su.
+respite /N/ nghi giai lao.
+contradict /V/ noi nguoc lai voi nguoi khac, hay nguoc lai voi su that nao do.
+exponent /N/ phan tich gia, so mu.
+treatcherous /ADJ/ nguy hiem.
+utilize /V/ dung mot cach hieu qua.
+notorious /ADJ/ khet tieng.
+cosmetic /N/ do trang diem.
+drench /V/ lam vat gi do tro ne uot sung.
+exterminate /V/ giet mopt so luong dong vat, hay nguoi rat lon.
+intrude /V/ vo tinh tham gia hay xam nhap vao mot vi tri, trang thai nao do.
+trace /V,N/ tim lai thu gi da mat, dau vet, am chi cua mot cai gi do, mot luong nho vat gi do.
+flank /N/ ben suon, ben hong.
+fatigue /V,N/ cam giac met moi, lam ai do tro nen met moi.
+stealth /N/ chuyen dong cham chap, do du, can than.
+coupon /N/ the giam gia.
+intercept /V/ ngan chan, bat ai do, cai gi do truoc khi no dat duoc thanh cong hay mong muon.
+revoke /V/ huy bo mot quyet dinh su that.
+vibrant /ADJ/ tran day nang luong, tran day su nhiet huyet.
+transient /ADJ/ tma thoi, trong thoi gian ngan.
+forte /N/ nang luc manh me de lam mot viec gi do.
+residue /N/ do an thua hay do con sot lai cua mot thu gi do.
+venue /N/ noi to chuc hoi the thao, hoa nhac.
+brace /N/ co dinh cai gi do de no khong bi roi.
+ramble /V/ di bo giai tri, noi lien mien lac de.
+obsolete /ADJ/ khong con su dung nua, bi thay boi mot vat moi hon.
+exquisite /ADJ/ rat dep va mong manh, tinh te.
+acute /ADJ/ gay ra sat thuong hay van de nghiem trong.
+ambience /N/ bau khong khi xung quanh.
+magnify /V/ phong dai, khuech dai, noi xao.
+incubate /V/ giu cho vat gi do am, gay ra su no, phat trien.
+amend /V/ thay doi cai gi do, dac biet la chu hay van ban soan thao.
+divulge /V/ he lo, bat mi.
+decimate /V/ giet mot luong lon, loai bo no mot cach nghiem trong, tan khoc.
+recharge /V/ dua them nang luong vao thiet bi bang cach ket noi voi nguon dien.
+discharge /V/ cho phep ai do roi khoi khu vuc, thai ra chat thai, lam mot cong viec hanh chinh, ban sung.
+stray /V/ lac duong, chech huong, khong co nha cua.
+impudent /ADJ/ tho lo, khong the hien su ton trong.
+coordinate /V/ lam cho nhieu vat lam viec cung voi nhau, toa do.
+subordinate /ADJ/ duoi truong, cap bac thap hon.
+restrain /V/ kiem che.
+farewel /Exc/ chao tam biet.
+welfare /N/ su cuu tro tu chinh phu, su thoai mai, vui ve cua tinh than va the chat.
+abduct /V/ bat ai do di den dau do, thuong dung vu luc hay bien phap tho bao.
+trail /V,N/ duong mon, loi mon, cac chung cu ket noi, di theo ai do.
+felony /N/ toi nghiem trong co the bi bo tu nhieu nam.
+sedative /N/ thuoc ngu, thuoc me.
+convict /V/ tuyen bo, ket an.
+entangle /V/ mac vao cai gi do rat kho de thoat ra.
+ambush /V/ mai phuc.
+dismay /N/ cam giac that vong, khong vui ve.
+ostentatious /ADJ/ khoe tien mot cach pho truong, lo lieu.
+inflict /V/ bat ai do trai qua mot dieu gi do toi te.
+explicit /ADJ/ ro rang, chinh xac.
+arousal /N/ nung lol.
+salvage /V/ tiet kiem loai vat con dung duoc cua mot vat the cu, cai thien tinh hinh.
+ethic /ADJ/ thuan phong my tuc.
+hitch /N/ mot kho khan bat ngo khien qua trinh bi dinh tre mot thoi gian ngan.
+graze /V/ mai dua, mai.
+flirt /V/ tha thinh, khieu goi.
+embark /V/ di len tau.
+escalate /V/ lam gia tang.
+render /V/ lam cai gi do co mot trang thai nao do, phien dich.
+liaise /V/ ket noi voi ai do.
+hybrid /ADJ,N/ hon hop, hon don, dep la.
+migrain /N/ con dau dai dang trong dau, gay buon non, chong mat.
+barge /V,N/ cai pha, di dau do vmot cach gap gap, xo day.
+refrain /V/ kiem che.
+casualty /N/ thuong binh liet si.
+martyr /V.N/ thuon gbinh, bi giet boi niem tin lech lac.
+daunt /V/ doa ai do khien nguoi do kho dat duoc thanh cong.
+competent /ADJ/ kha nang lam tot viec gi do, khong xuat sac nhung day du.
+motto /N/ khau hieu.
+manifest /V/ bay tocai gi do ro rang thong qua cu chi hanh dong.
+infiltrate /V/ bi mat tham gia vao to chuc nao do de anh huong toi suy nghi hay hanh dong cua no.
+inaugurate /V/ nham chuc, dua ai do vao dam nhiem bang tiec chuc mung.
+sober /ADJ/ khong the bi say ruou.
+hunch /N/ linh cam.
+asphalt /N/ nhua duong.
+obliterate /V/ quet di toan bo dau vet cua cai gi do.
+pulverise /V/ nghien nat thanh bot.
+delusion /N/ tin vao thu gi do khong co that.
+entail /V/ chua.
+deduct /V/ khau tru.
+catalyst /N/ chat xuc tac.
+pacifism /N/ chu nghia hoa hinh.
+manipulate /V/ nhao nan, dieu khien cai gi do, ai do cho muc dich ban than.
+capsule /N/ vien thuoc con nhong.
+viable /ADJ/ thuc thi, co kha nang thanh cong.
+annihilate /V/ pha huy hoan toan.
+volatile /ADJ/ xu huong bien doi kho luong truoc, theo chieu huong xau.
+devoid /ADJ/ thieu cai gi do quan trong.
+devise /V/ tuong tuong, che tao bang tri thong minh hay lien tuong.
+haste /N/ qua nhieu toc do.
+hideous /ADJ/ rat xau, toi te.
+syndrome /ADJ/ trieu chung cua benh.
+anachronism /N/ loi thoi, khong dung nien dai.
+mimic /V/ bat chuoc hanh dong ai do de tao tieng cuoi.
+cargo /N/ hanh hoa duoc van chuyen boi phuong tien van chuyen.
+denounce /V/ chi trich ai do rat toi te, manh bao.
+stutter /V/ noi lap.
+rave /V/ noi mot cach thieu kiem soat vi ban dng gian du hay that vong, kham phuc ai do/
+placard /N/ tam bang bieu tinh.
+demonstrator /N/ nguoi bieu binh.
+gamble /V/ lam gi do voi rui ro mat tien hay that bai, nhung hi vong se thanh cong.
+ascribe /Phr/ can nhac cai gi do se duoc xay ra, tao nen, gay ra.
+haphazard /ADJ/ thieu muc tieu, mu quang.
+jinxed /ADJ/ linh cam xau.
+startle /V/ lam gi do khien giat minh, lo lang.
+transpire /V/ xay ra, thoat nuoc qua be mat, than.
+satiate /V/ thoa man ban than ban den khi ban khong con gi nua.
+hassle /V,N/ kho khan, thu thach, lam phien ai do.
+diligent /ADJ/ can than va no luc.
+delegate /N/ dai bieu, nguoi duoc uy nhiem.
+waive /V/ khong tuan thu luat le.
+savior /N/ nguoi cuu nguoi khac khoi tham hoa.
+savor /N/ tan huong dieu gi do cham rai, nhieu nhat co the.
+outrageous /ADJ/ khong the chap nhan duoc, khong binh thuong, tho bao.
+monotonous /V/ don dieu, nham chan.
+ideology /N/ he tu tuong.
+overt /ADJ/ hoan thanh va bieu hien mot cach cong chung, cong khai.
+dismantle /V/ thao roi co may ra, bai bo mot he thong, to chuc, noi rang mot loi tuyen bo khong chinh xac.
+scrape /V/ bo di lop vo khong muon tren be mat bang cach su dung vat nham, xu xi.
+resent /V/ cam thay kho chiu vi bi bat lam dieu gi do khong thich.
+snatch /V/ tom chat lay ai do, lam dieu gi do khi ban con rat it thoi gian.
+crumble /V/ dap vo thanh nhieu manh, tro nen yeu hon.
+humiliate /V/ lam ai do cam thay xau ho, thieu ton trong toi nguoi do.
+absurd /ADJ/ ngu ngoc. ngoc nghech.
+plausible /ADJ/ kha nang la dung, trung thuc, hop li.
+acclamation /N/ su dong thuan cong dong.
+proxy /N/ bau cu cho ai do.
+hallucinate /V/ ao giac.
+masochistic /ADJ/ kho dam.
+brute /N/ mot nguoi kho o va tho thien, dong vat to lon, mot luc rat manh.
+quarantine /N/ thoi gian cach li do dich benh.
+pawn /V,N/ mot nguoi khong co thuc luc bi su dung boi nguoi khac de dat mong muon.
+clamber /V,N/ treo len cai gi do rat kho khan bang chan va tay, hanh dong leo treo.
+clench /V/ giu chat, dong chat voi mot cach rat manh me, dut khoat.
+clutch /V/ bam lay gi do trong so hai.
+fumble /V/ vung ve, that bai trong viec bat lay vat gi do.
+velocity /N/ toc do.
+husk /N/ vo trau.
+defy /V/ tu choi tuan lenh ai do, luat le nao do...
+badge /N/ vat deo co ten nguoi do, huy hieu.
+frantical /ADJ/ gan nhu mat kiem soat vi cam xuc manh liet, nhanh nhau trong tam trang thich thu.
+feeble /ADJ/ yeu, khong hieu qua, khong tot.
+recess /N/ khong thoi gian trong nam ma cac dai bieu, nguoi trong quoc hoi khong hop mat.
+denude /V/ loai bo lop bao boc cai gi do, dac biet la dat.
+trawl /V/ quang chai.
+dredge /V/ loai bo vat khong mong muon duoi song, ho,.. bang thiet bi.
+arbitrary /ADJ/ tuy co ung bien, doc tai.
+scourge /N/ viec phien toai.
+articulate /ADJ/ kha nang boc lo suy nghi, cam xuc troi chay, ro rang.
+browse /V/ "cuoi ngua xem hoa" doc sach hay nhin ngo cua hang.
+charismatic /ADJ/ tai nang lanh dao.
+inflate /V/ lam cai gi do gia tang kich thuoc bang khi, hoi.
+rear /ADJ/ dang sau cai gi do, cham soc den khi du long du canh.
+deputy /N/ nguoi duong nhiem, chuc vu tam thoi.
+drone /V,N/ tieng kieu cua con trung, thiet bi do tham khong nguoi lai.
+allegation /N/ loi buoc toi khong can cu.
+emulate /V/ bat chuoc ai do bi ban cam thay nguong mo ho.
+doctrine /N/ niem tin, tin nguong.
+classic /ADJ/ co chat luong cao, rat buon cuoi, toi te hay phien phuc, don gian nhung hieu qua, khong loi thoi.
+classify /V/ phan loai, phan chia theo dac diem.
+pathetic /ADJ/ gay ra buon, thuong cam, bat luc.
+induce /V/ lam cai gi do xay ra hay thuyet ohuc ai do lam viec tren.
+scour /V/ loai bo dat ban bang cach mai no vao cai gi do gap ghenh, nham.
+prodigal /ADJ/ phung phi, dung tien mot cach khong khon kheo.
+compelling /ADJ/ hap dan, loi cuon.
+brass /N/ dong thau.
+decoy /N/ ba, moi nhu.
+shred /N/ mot luong rat nho cua cai gi do.
+sage /ADJ/ khon ngoan, chin chan, truong thanh.
+sue /V/ kien ai do ra toa ve viec gi do.
+persecute /V/ doi xu khong cong bang, tan nhan trong thoi gian dai vi niem tin, tin nguong cua ho.
+relay /V/ tiep am, sap dat theo kip, tiep tuc lam hanh dong chua ket thuc cua mot nguoi khac trong cung to chuc.
+

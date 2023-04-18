@@ -1,0 +1,60 @@
+Duong Van Gioi
+2003
+9.5
+8.5
+9.75
+Phan Van Tuoi
+2003
+9.75
+8.5
+10.5
+Le Tuan Anh
+2004
+8.75
+10
+9.5
+Phung Huy Khoa
+2003
+5
+5
+6
+Hoang Quoc Viet
+2002
+3
+5
+7
+Hoang Sy Phuck
+2001
+4
+7
+3
+Duong The Gioi
+2003
+9.5
+10
+9.75
+Phan Van Toc
+2003
+9.5
+8
+5.5
+Le Tuan Anh
+2005
+8.75
+0
+9.5
+Phung Huy Khoi
+2003
+5
+5
+8
+Hoang Viet Nam
+2002
+3
+5
+9
+Hoang Phuc Sy
+2003
+4
+6
+3

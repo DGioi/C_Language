@@ -1,0 +1,5 @@
+aim muc_tieu
+aspect khia_canh
+absorb hap_thu
+admit dong_y
+apologize xin_loi
